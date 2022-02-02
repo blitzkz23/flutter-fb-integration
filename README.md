@@ -1,16 +1,7 @@
-# dicoding_chatting
+# Quickstart Guide
+This project still use my firebase server config, if you want to use your own you could follow these quicksteps:<br>
+1. Login/register in firebase website
+<br><img src="https://raw.githubusercontent.com/blitzkz23/flutter-fb-integration/main/guide/p1.jpeg" alt="project"/> </img>
+2. Create your own project from Firebase Console  https://console.firebase.google.com/.
+3. Follow the steps until your project get created.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
